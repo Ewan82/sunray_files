@@ -1,0 +1,6 @@
+Cumulative NEE (g C m$^{-2}$ day$^{-1}$)_east: -392.123520813 +/- 128.948673577
+Cumulative NEE (g C m$^{-2}$ day$^{-1}$)_west: -413.069904256 +/- 104.517360859
+Cumulative GPP (g C m$^{-2}$ day$^{-1}$)_east: 1675.60533723 +/- 154.631873248
+Cumulative GPP (g C m$^{-2}$ day$^{-1}$)_west: 1949.73790348 +/- 144.546641152
+Cumulative ecosystem respiration (g C m$^{-2}$ day$^{-1}$)_east: 1283.48181642 +/- 167.580833332
+Cumulative ecosystem respiration (g C m$^{-2}$ day$^{-1}$)_west: 1536.66799922 +/- 160.90700944
